@@ -2,6 +2,6 @@
 
 ### My Assignment solutions
 
-1. [Module 2 Assignment Solution](https://github.com/DeUprising/Coursera-Web-Dev-Course/tree/main/module2-solution)
+1. [Module 2 Assignment Solution](https://deuprising.github.io/Coursera-Web-Dev-Course/module2-solution/)
 
-2. [Module 3 Assignment Solution](https://github.com/DeUprising/Coursera-Web-Dev-Course/tree/main/module3-solution)
+2. [Module 3 Assignment Solution](https://deuprising.github.io/Coursera-Web-Dev-Course/module3-solution/)
