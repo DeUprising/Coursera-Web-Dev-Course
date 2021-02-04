@@ -7,3 +7,5 @@
 2. [Module 3 Assignment Solution](https://deuprising.github.io/Coursera-Web-Dev-Course/module3-solution/)
 
 3. [Module 4 Assignment Solution](https://deuprising.github.io/Coursera-Web-Dev-Course/module4-solution/)
+
+4. [Module 5 Assignment Solution](https://deuprising.github.io/Coursera-Web-Dev-Course/module5-solution/)
